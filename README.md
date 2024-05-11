@@ -8,3 +8,21 @@
   <li>Colorama</li>
   <li>Shutil</li>
 </ul>
+
+<h2>How to use it: </h2>
+
+```python
+from console import Main as Console
+
+def main():
+  Console = ConsoleClass()
+  Console.output(Console.Types.Info, "Hello world!")
+
+# Which returns "[?] Hello world!"
+```
+# Full size window
+![Full](https://raw.githubusercontent.com/TedyonGit/PrettyConsole/main/full.png)
+# Normal size window
+![Normal](https://raw.githubusercontent.com/TedyonGit/PrettyConsole/main/normal.png)
+
+Made with ❤ by Tedy
