@@ -25,4 +25,13 @@ def main():
 # Normal size window
 ![Normal](https://raw.githubusercontent.com/TedyonGit/PrettyConsole/main/normal.png)
 
+
+# Console Types:
+- Success
+- Error
+- Warning
+- Info
+  
+<h3>You can modify the printing by editing console.py in 'OutputTypes'</h3>
+
 Made with ❤ by Tedy
