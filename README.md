@@ -26,7 +26,7 @@ def main():
 ![Normal](https://raw.githubusercontent.com/TedyonGit/PrettyConsole/main/normal.png)
 
 
-# Console Types:
+# Console Output Types:
 - Success
 - Error
 - Warning
