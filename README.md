@@ -12,7 +12,7 @@
 <h2>How to use it: </h2>
 
 ```python
-from console import Main as Console
+from console import Main as ConsoleClass
 
 def main():
   Console = ConsoleClass()
