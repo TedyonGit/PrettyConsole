@@ -14,9 +14,8 @@
 ```python
 from console import Main as ConsoleClass
 
-def main():
-  Console = ConsoleClass()
-  Console.output(Console.Types.Info, "Hello world!")
+Console = ConsoleClass()
+Console.output(Console.Types.Info, "Hello world!")
 
 # Which returns "[?] Hello world!"
 ```
